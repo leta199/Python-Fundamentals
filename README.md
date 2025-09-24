@@ -3,8 +3,8 @@
 Learning how to us basic Python functionality and features.  
 
 ## HOW IT'S MADE 
-Languages used: R verion (4.5.1)    
-Environement: RStudio
+Languages used: Python verion (3.9.4)    
+Environement: Visual Studio Code 
 
 ## METHODS AND TECHNIQUES  
 **Module 1**- Focused mostly on basic syntax, arithmetic, concatenation and indexing  

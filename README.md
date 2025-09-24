@@ -13,7 +13,7 @@ Environement: RStudio
 **Module #2 Parts 2**- Focused on types and classes with thier associated attributes and methods
 
 ## PROJECT STRUCTURE      
-[Simulation- Conditional Probability](https://github.com/leta199/Simulation-Conditional-Probability)/  
+[Python Fundamental](https://github.com/leta199/Python-Fundamentals)/  
 ├── [Module #2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%232-%20Python%20practice%20.py)/    
 ├── [Module #3 Part 2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Continued%20.py)/    
 ├── [Module #3 Part 2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Continued%20.py)/   

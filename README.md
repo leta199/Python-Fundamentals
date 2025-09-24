@@ -3,7 +3,7 @@
 Learning how to us basic Python functionality and features.  
 
 ## HOW IT'S MADE 
-Languages used: Python verion (3.9.0 64 bit)    
+Languages used: Python verion 3.9.0 (64 bit)    
 Environement: Visual Studio Code 
 
 ## METHODS AND TECHNIQUES  

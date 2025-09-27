@@ -19,7 +19,7 @@ Environement: Visual Studio Code
 ├── [Module #3 Part 2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Continued%20.py)/   
 ├── [Module #3 Part 1](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Python%20Conditions%2C%20loops%20and%20creating%20functions.py)/   
 ├── [Module #1](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%231%20Pyhton-basics-revision.py)/   
-└── [README.md](https://github.com/leta199/Python-Fundamentals/blob/main/README.md)
+└── [README.md](https://github.com/leta199/Python-Fundamentals/blob/main/README.md)/
 
 ## WHAT DOES THE FUTURE HOLD?  
  Going into the future I want to add the following:  

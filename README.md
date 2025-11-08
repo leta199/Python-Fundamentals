@@ -7,10 +7,10 @@ Languages used: Python verion 3.9.0 (64 bit)
 Environement: Visual Studio Code 
 
 ## METHODS AND TECHNIQUES  
-**Module 1**- Focused mostly on basic syntax, arithmetic, concatenation and indexing  
-**Module #2**- Focused on compund data types such as tuples, dictionaries and lists  
-**Module #3 Part 1**- Focused on conditionas and branching, loops, functions and excpetion handling   
-**Module #2 Parts 2**- Focused on types and classes with thier associated attributes and methods
+**Module 1**- Focused mostly on basic syntax, arithmetic, concatenation and indexing.  
+**Module #2**- Focused on compund data types such as tuples, dictionaries and lists.  
+**Module #3 Part 1**- Focused on conditionas and branching, loops, functions and excpetion handling.   
+**Module #2 Parts 2**- Focused on types and classes with thier associated attributes and methods.
 
 ## PROJECT STRUCTURE      
 [Python Fundamental](https://github.com/leta199/Python-Fundamentals)/  

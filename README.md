@@ -3,7 +3,7 @@
 Learning how to us basic Python functionality and features.  
 
 ## HOW IT'S MADE 
-Languages used: Python verion 3.9.0 (64 bit)    
+Languages used: Python verion 3.9.0  
 Environement: Visual Studio Code 
 
 ## METHODS AND TECHNIQUES  
@@ -22,7 +22,7 @@ Environement: Visual Studio Code
 └── [README.md](https://github.com/leta199/Python-Fundamentals/blob/main/README.md)/
 
 ## WHAT DOES THE FUTURE HOLD?  
- Going into the future I want to add the following:  
+  
  1) Utilise the techniques o have learned here to do basic data exploration such as visualisation in matlpotlib.
  2) Utilise a diverse array of packages like pandas, numpy, scikitlearn, seaborn and beautifulsoup.
  3) Eventually create my own linear regression model from scracth to test my mathematical know-how.  

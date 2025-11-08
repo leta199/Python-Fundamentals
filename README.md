@@ -7,7 +7,6 @@ Languages used: Python verion 3.9.0
 Environement: Visual Studio Code 
 
 ![Python](https://img.shields.io/badge/Python-3.9.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-lightgrey)
 ## METHODS AND TECHNIQUES  
 **Module 1**- Focused mostly on basic syntax, arithmetic, concatenation and indexing.  

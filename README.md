@@ -1,6 +1,10 @@
 # Python Fundamentals
 
 Learning how to us basic Python functionality and features.  
+This project is educational only and will cover the follows Python features:
+- Syntax, arithmetic and indentation
+- Data types
+- More complex Python functionality such as branching anf exception handling
 
 ## HOW IT'S MADE 
 Languages used: Python verion 3.9.0  
@@ -12,16 +16,16 @@ Environement: Visual Studio Code
 **Module 1**- Focused mostly on basic syntax, arithmetic, concatenation and indexing.  
 **Module #2**- Focused on compund data types such as tuples, dictionaries and lists.  
 **Module #3 Part 1**- Focused on conditionas and branching, loops, functions and excpetion handling.   
-**Module #2 Parts 2**- Focused on types and classes with thier associated attributes and methods.
+**Module #3 Parts 2**- Focused on types and classes with thier associated attributes and methods.
 
 ## PROJECT STRUCTURE      
-[Python Fundamental](https://github.com/leta199/Python-Fundamentals)/  
-├── [Module #2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%232-%20Python%20practice%20.py)/    
-├── [Module #3 Part 2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Continued%20.py)/    
-├── [Module #3 Part 2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Continued%20.py)/   
-├── [Module #3 Part 1](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Python%20Conditions%2C%20loops%20and%20creating%20functions.py)/   
-├── [Module #1](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%231%20Pyhton-basics-revision.py)/   
-└── [README.md](https://github.com/leta199/Python-Fundamentals/blob/main/README.md)/
+|[Python Fundamental](https://github.com/leta199/Python-Fundamentals)  
+|├── [Module #2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%232-%20Python%20practice%20.py)    
+|├── [Module #3 Part 2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Continued%20.py)   
+|├── [Module #3 Part 2](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Continued%20.py)   
+|├── [Module #3 Part 1](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%20%233-%20Python%20Conditions%2C%20loops%20and%20creating%20functions.py)  
+|├── [Module #1](https://github.com/leta199/Python-Fundamentals/blob/main/MODULE%231%20Pyhton-basics-revision.py)   
+|└── [README.md](https://github.com/leta199/Python-Fundamentals/blob/main/README.md)
 
 ## WHAT DOES THE FUTURE HOLD?  
   

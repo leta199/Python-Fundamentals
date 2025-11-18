@@ -31,7 +31,7 @@ Environement: Visual Studio Code
   
  1) Utilise the techniques I have learned here to do basic data exploration such as visualisation in matlpotlib  ✅
  2) Utilise a diverse array of packages like pandas, numpy, scikitlearn, seaborn and beautifulsoup  ✅
- 3) Eventually create my own linear regression model from scracth to test my mathematical know-how  ✅
+ 3) Eventually create my own linear regression model from scracth to test my mathematical know-how  ✅ the whole project is end to end and you can find it here:    [linear regression](https://github.com/leta199/Linear-Regression)
 
 ## AUTHORS   
 [leta199](https://github.com/leta199)  

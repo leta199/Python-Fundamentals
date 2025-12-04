@@ -7,7 +7,7 @@ This project is educational only and will cover the follows Python features:
 - More complex Python functionality such as branching anf exception handling
 
 ## HOW IT'S MADE 
-Languages used: Python verion 3.9.0  
+Languages used: Python (version 3.9.0)  
 Environement: Visual Studio Code 
 
 ![Python](https://img.shields.io/badge/Python-3.9.0-blue)
